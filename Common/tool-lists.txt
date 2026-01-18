@@ -11,4 +11,3 @@ stork.ai
 tooldirectory.ai
 toolpilot.ai
 toolsforhumans.ai
-voicebot.ai

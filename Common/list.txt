@@ -5,13 +5,9 @@
 3d.ai
 aleatory.ai
 animemaker.ai
-appintro.ai
-art.ai
 artbot.ai
 artemisia.ai
 artguru.ai
-artimator.ai
-artiphoria.ai
 astria.ai
 avtrs.ai
 background.zmo.ai

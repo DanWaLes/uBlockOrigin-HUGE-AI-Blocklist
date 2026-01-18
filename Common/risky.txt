@@ -1,0 +1,5 @@
+! // Sites blocked by content blockers due to security or privacy filters
+
+midjourney.co
+midjourney.fm
+pixelz.ai

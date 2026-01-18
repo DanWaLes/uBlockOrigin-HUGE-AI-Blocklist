@@ -57,10 +57,8 @@ canterbury.ai
 captions.ai
 caspa.ai
 cgdream.ai
-character.ai
 charisma.ai
 chatsimple.ai
-chub.ai
 civit.ai
 claude.ai
 clova.ai
@@ -69,7 +67,6 @@ codium.ai
 cognitive.ai
 comicsmaker.ai
 contentatscale.ai
-cookup.ai
 corporateheadshots.ai
 coursebox.ai
 covers.ai
@@ -160,7 +157,6 @@ inworld.ai
 ipic.ai
 jasper.ai
 jeda.ai
-joinrealm.ai
 jounce.ai
 journeyart.ai
 julius.ai
@@ -192,7 +188,6 @@ manytools.ai
 mascots.ai
 meeting.ai
 meshy.ai
-meta.ai
 metaphysic.ai
 midjourneyai.ai
 miniapps.ai
@@ -225,8 +220,6 @@ partner.ai
 passio.ai
 patience.ai
 paxi.ai
-pephop.ai
-perplexity.ai
 phot.ai
 photosonic.ai
 picfinder.ai
@@ -278,7 +271,6 @@ smokingrobot.ai
 soca.ai
 soulgen.ai
 sound.ai
-spicychat.ai
 stability.ai
 stablegenius.ai
 staccato.ai
@@ -334,7 +326,6 @@ webapi.ai
 whatthediff.ai
 writehuman.ai
 xinva.ai
-yeschat.ai
 z.ai
 zavant.ai
 zmo.ai
@@ -411,9 +402,7 @@ buddhaweekly.com
 capcut.com/tools/ai-art-generator
 catsaroundtheglobe.com
 centralaitools.com
-chatai.com
 chatbot.com
-chatgpt.com
 chichi-pui.com
 ciciai.com
 civarchive.com
@@ -785,7 +774,6 @@ superreply.co
 thedreamkeeper.co
 
 ! // Sites that have .net domain extension
-aichatting.net
 bigshadows.net
 codeease.net
 csdn.net

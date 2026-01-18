@@ -2,14 +2,11 @@
 
 
 ! // Sites that have .ai domain extension
-2moons.ai
 3d.ai
-ai-girlfriend.ai
 ai-ui.ai
 aiseo.ai
 aitable.ai
 aiva.ai
-aivoicestudio.ai
 akuma.ai
 aleatory.ai
 alignmentlab.ai

@@ -2,7 +2,6 @@
 
 
 ! // Sites that have .ai domain extension
-3d.ai
 aleatory.ai
 background.zmo.ai
 beatoven.ai
@@ -22,7 +21,6 @@ claude.ai
 clova.ai
 codewp.ai
 codium.ai
-cognitive.ai
 contentatscale.ai
 corporateheadshots.ai
 coursebox.ai

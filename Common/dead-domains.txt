@@ -1,3 +1,29 @@
+! Server error
+arthemy.ai
+artvy.ai
+creativitywith.ai
+freeflo.ai
+gofind.ai
+imagineanything.ai
+journeyart.ai
+midjourneyai.ai
+pokeit.ai
+rephrase.ai
+storybird.ai
+thetawise.ai
+
+! Service ended or no content
+100xgrowth.ai
+aioli.ai
+cree8.ai
+crypko.ai
+imagekraft.ai
+onlyhent.ai
+pluginplay.ai
+stormi.ai
+usp.ai
+
+! Dead domains
 aitoolskit.ai
 artchan.ai
 gpte.ai

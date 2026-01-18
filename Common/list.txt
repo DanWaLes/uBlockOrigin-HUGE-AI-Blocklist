@@ -144,7 +144,6 @@ picfinder.ai
 picso.ai
 pictory.ai
 pipio.ai
-pixelz.ai
 pixverse.ai
 plask.ai
 plugger.ai
@@ -642,7 +641,6 @@ hiddendoor.co
 huggingface.co
 iamfy.co
 jinnee.co
-midjourney.co
 postalai.co
 scrum.co
 superreply.co
@@ -774,7 +772,6 @@ manuals.plus
 media.io
 memo.tv
 midjourney.co.in
-midjourney.fm
 midlibrary.io
 mlyearning.org
 musesai.io

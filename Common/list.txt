@@ -7,7 +7,6 @@ ai-ui.ai
 aiseo.ai
 aitable.ai
 aiva.ai
-akuma.ai
 aleatory.ai
 alignmentlab.ai
 anakin.ai

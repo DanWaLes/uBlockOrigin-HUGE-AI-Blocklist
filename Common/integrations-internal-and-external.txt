@@ -1,6 +1,7 @@
 api.aitubo.ai
 api.artflow.ai
 api.artzone.ai
+api.astria.ai
 api.cgdream.ai
 api.eosai.chat
 api.miniapps.ai

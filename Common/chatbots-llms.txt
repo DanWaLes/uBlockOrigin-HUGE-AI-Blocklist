@@ -4,6 +4,7 @@ chatai.com
 chatgpt.com
 chub.ai
 cookup.ai
+copilot.microsoft.com
 joinrealm.ai
 meta.ai
 pephop.ai

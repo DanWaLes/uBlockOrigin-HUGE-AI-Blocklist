@@ -10,6 +10,8 @@ artsi.ai
 artsmart.ai
 artspace.ai
 artzone.ai
+astria.ai
+avtrs.ai
 bluewillow.ai
 cgdream.ai
 civarchive.com
@@ -38,6 +40,7 @@ pixai.art
 playform.ai
 prompti.ai
 recraft.ai
+replicate.delivery
 seaart.ai
 shedevrum.ai
 suno.com

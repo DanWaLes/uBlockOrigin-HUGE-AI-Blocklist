@@ -4,8 +4,6 @@
 ! // Sites that have .ai domain extension
 3d.ai
 aleatory.ai
-astria.ai
-avtrs.ai
 background.zmo.ai
 beatoven.ai
 beebee.ai

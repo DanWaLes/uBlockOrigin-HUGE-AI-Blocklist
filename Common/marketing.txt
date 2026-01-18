@@ -8,6 +8,8 @@ aplicaciones.ai
 dang.ai
 foundr.ai
 gptstore.ai
+graydient.ai
+graydientplatform.com
 manytools.ai
 openfuture.ai
 opentools.ai

@@ -3,7 +3,6 @@
 
 ! // Sites that have .ai domain extension
 3d.ai
-aiva.ai
 aleatory.ai
 animemaker.ai
 appintro.ai

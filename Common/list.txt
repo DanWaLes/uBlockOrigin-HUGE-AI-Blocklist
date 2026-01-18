@@ -2,12 +2,10 @@
 
 
 ! // Sites that have .ai domain extension
-100xgrowth.ai
 2moons.ai
 3d.ai
 ai-girlfriend.ai
 ai-ui.ai
-aioli.ai
 aiseo.ai
 aitable.ai
 aiva.ai
@@ -24,10 +22,8 @@ art.ai
 artbot.ai
 artemisia.ai
 artguru.ai
-arthemy.ai
 artimator.ai
 artiphoria.ai
-artvy.ai
 astria.ai
 avtrs.ai
 background.zmo.ai
@@ -54,10 +50,7 @@ corporateheadshots.ai
 coursebox.ai
 covers.ai
 creaitor.ai
-creativitywith.ai
-cree8.ai
 crushon.ai
-crypko.ai
 daftart.ai
 dalle3.ai
 dang.ai
@@ -96,7 +89,6 @@ fireflies.ai
 fliki.ai
 forkful.ai
 foundr.ai
-freeflo.ai
 fritz.ai
 fuups.ai
 gab.ai
@@ -109,7 +101,6 @@ gizzmo.ai
 goatstack.ai
 godofprompt.ai
 goenhance.ai
-gofind.ai
 gooey.ai
 gptstore.ai
 graydient.ai
@@ -124,9 +115,7 @@ hypotenuse.ai
 ideogram.ai
 idomoo.ai
 iliad.ai
-imagekraft.ai
 images.ai
-imagineanything.ai
 imajinn.ai
 impossibleimages.ai
 insidr.ai
@@ -134,7 +123,6 @@ inworld.ai
 jasper.ai
 jeda.ai
 jounce.ai
-journeyart.ai
 julius.ai
 junia.ai
 justthink.ai
@@ -161,7 +149,6 @@ mascots.ai
 meeting.ai
 meshy.ai
 metaphysic.ai
-midjourneyai.ai
 miniapps.ai
 mirrorize.ai
 mistral.ai
@@ -179,7 +166,6 @@ nextdiffusion.ai
 novita.ai
 octie.ai
 odastudio.ai
-onlyhent.ai
 openfuture.ai
 opentools.ai
 otter.ai
@@ -199,10 +185,7 @@ pixelz.ai
 pixverse.ai
 plask.ai
 plugger.ai
-pluginplay.ai
 pngmaker.ai
-pokeit.ai
-pokeit.ai
 polyai.ai
 popularaitools.ai
 portret.ai
@@ -216,7 +199,6 @@ quicklines.ai
 realestate.ai
 reface.ai
 remaker.ai
-rephrase.ai
 replicate.ai
 resemble.ai
 sakana.ai
@@ -238,8 +220,6 @@ staccato.ai
 steve.ai
 stockimg.ai
 stork.ai
-stormi.ai
-storybird.ai
 storyboardhero.ai
 success.ai
 suno.ai
@@ -250,7 +230,6 @@ techpilot.ai
 texta.ai
 thedream.ai
 thesamur.ai
-thetawise.ai
 tldrdev.ai
 tooldirectory.ai
 toolpilot.ai
@@ -267,7 +246,6 @@ unite.ai
 unpod.ai
 unprompt.ai
 urania.ai
-usp.ai
 vidyo.ai
 viggle.ai
 vmodel.ai
